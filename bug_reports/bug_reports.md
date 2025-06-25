@@ -94,7 +94,7 @@ The logo image should be displayed in the header
 # Screenshots
 [Open to see Screenshot of bug 3](../screenshots/bug_3.jpeg)
 # Logs
-[Open to see log.txt of bug 1](../logs/www.weather-stream.com-bug_3.txt)
+[Open to see log.txt of bug 1](../logs/www.pogoda.fr-bug_3.txt)
 
 
 
@@ -125,7 +125,7 @@ macOS: Sequoia 15.2 (24C101),  Browser: Chrome Version 137.0.7151.104 (Official 
 # Screenshots
 [Open to see Screenshot of bug 4](../screenshots/bug_4.jpeg)
 # Logs
-[Open to see log.txt of bug 1](../logs/www.weather-stream.com-bug_4.txt)
+[Open to see log.txt of bug 1](../logs/www.pogoda.fr-bug_4.txt)
 
 
 <--------------------------------------------------------------------------------------------------------->
@@ -154,7 +154,7 @@ The profile image should be displayed in the header
 # Screenshots
 [Open to see Screenshot of bug 5](../screenshots/bug_5.jpeg)
 # Logs
-[Open to see log.txt of bug 1](../logs/www.weather-stream.com-bug_5.txt)
+[Open to see log.txt of bug 1](../logs/www.pogoda.es-bug_5.txt)
 
 
 <--------------------------------------------------------------------------------------------------------->
@@ -183,7 +183,7 @@ The profile image should be displayed in the header
 # Screenshots
 [Open to see Screenshot of bug 6](../screenshots/bug_6.jpeg)
 # Logs
-[Open to see log.txt of bug 1](../logs/www.weather-stream.com-bug_6.txt)
+[Open to see log.txt of bug 1](../logs/www.pogoda.com.ru-bug_6.txt)
 
 
 

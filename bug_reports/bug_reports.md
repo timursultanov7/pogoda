@@ -63,7 +63,7 @@ The form submits successfully
 - The form does not submit
 - The error appears in the bottom left corner: ""Captcha is not found
 # Screenshots
-[Open to see Screenshot of bug 1](../screenshots/bug_2.jpeg)
+[Open to see Screenshot of bug 2](../screenshots/bug_2.jpeg)
 # Logs
 [Open to see log.txt of bug 1](../logs/www.weather-stream.com-bug_2.txt)
 
@@ -92,7 +92,7 @@ The logo image should be displayed in the header
 - The logo image is not displayed
 - Instead, only the title or alt text is visible in the header
 # Screenshots
-[Open to see Screenshot of bug 1](../screenshots/bug_3.jpeg)
+[Open to see Screenshot of bug 3](../screenshots/bug_3.jpeg)
 # Logs
 [Open to see log.txt of bug 1](../logs/www.weather-stream.com-bug_3.txt)
 
@@ -123,7 +123,7 @@ macOS: Sequoia 15.2 (24C101),  Browser: Chrome Version 137.0.7151.104 (Official 
 - The logo image is not displayed
 - Instead, only the title or alt text is visible in the header
 # Screenshots
-[Open to see Screenshot of bug 1](../screenshots/bug_4.jpeg)
+[Open to see Screenshot of bug 4](../screenshots/bug_4.jpeg)
 # Logs
 [Open to see log.txt of bug 1](../logs/www.weather-stream.com-bug_4.txt)
 
@@ -152,7 +152,7 @@ The profile image should be displayed in the header
 - The profile image is not displayed
 - Instead, only the title or alt text is visible in the header
 # Screenshots
-[Open to see Screenshot of bug 1](../screenshots/bug_5.jpeg)
+[Open to see Screenshot of bug 5](../screenshots/bug_5.jpeg)
 # Logs
 [Open to see log.txt of bug 1](../logs/www.weather-stream.com-bug_5.txt)
 
@@ -181,7 +181,7 @@ The profile image should be displayed in the header
 - The profile image is not displayed
 - Instead, only the title or alt text is visible in the header
 # Screenshots
-[Open to see Screenshot of bug 1](../screenshots/bug_6.jpeg)
+[Open to see Screenshot of bug 6](../screenshots/bug_6.jpeg)
 # Logs
 [Open to see log.txt of bug 1](../logs/www.weather-stream.com-bug_6.txt)
 

@@ -1,0 +1,2 @@
+20:37:22.161 www.pogoda.com.ru/:1 [GroupMarkerNotSet(crbug.com/242999)!:A050E90F24010000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+20:37:22.162 www.pogoda.com.ru/:1 [GroupMarkerNotSet(crbug.com/242999)!:A020E90F24010000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.

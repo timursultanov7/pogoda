@@ -1,0 +1,22 @@
+19:48:57.168 www.pogoda.fr/:1 [GroupMarkerNotSet(crbug.com/242999)!:A0E08A1624010000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+19:48:57.169 www.pogoda.fr/:1 [GroupMarkerNotSet(crbug.com/242999)!:A0108B1624010000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+19:48:57.915 vcd15cbe7772f49c399c6a5babf22c1241717689176015:1 
+            
+            
+           POST https://www.pogoda.fr/cdn-cgi/rum? 404 (Not Found)
+t.sendObjectBeacon @ vcd15cbe7772f49c399c6a5babf22c1241717689176015:1
+P @ vcd15cbe7772f49c399c6a5babf22c1241717689176015:1
+R @ vcd15cbe7772f49c399c6a5babf22c1241717689176015:1
+setTimeout
+(anonymous) @ vcd15cbe7772f49c399c6a5babf22c1241717689176015:1
+19:49:03.625 runner.html:1 [GroupMarkerNotSet(crbug.com/242999)!:A060440224010000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+19:52:54.086 index.js:50 Device: 1440 x 900 | Browser: 1440 x 387 | Main: 1440 | Left sidebar: 0 | Right sidebar: 0 | Inner margin: 45 | Outer margin: 0
+19:52:54.674 index.js:50 Device: 1440 x 900 | Browser: 1440 x 177 | Main: 1440 | Left sidebar: 0 | Right sidebar: 0 | Inner margin: 45 | Outer margin: 0
+19:52:55.034 index.js:50 Device: 1440 x 900 | Browser: 1440 x 150 | Main: 1440 | Left sidebar: 0 | Right sidebar: 0 | Inner margin: 45 | Outer margin: 0
+19:53:15.444 vcd15cbe7772f49c399c6a5babf22c1241717689176015:1 
+            
+            
+           POST https://www.pogoda.fr/cdn-cgi/rum? 404 (Not Found)
+t.sendObjectBeacon @ vcd15cbe7772f49c399c6a5babf22c1241717689176015:1
+B @ vcd15cbe7772f49c399c6a5babf22c1241717689176015:1
+(anonymous) @ vcd15cbe7772f49c399c6a5babf22c1241717689176015:1

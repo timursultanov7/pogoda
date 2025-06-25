@@ -1,0 +1,205 @@
+19:07:21.634 www.weather-stream.com/:1 [GroupMarkerNotSet(crbug.com/242999)!:A090240324010000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+19:07:21.636 www.weather-stream.com/:1 [GroupMarkerNotSet(crbug.com/242999)!:A060240324010000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+19:07:22.152 /cdn-cgi/rum?:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 ()
+19:07:41.515 /cdn-cgi/rum?:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 ()
+19:07:42.416 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_u_4t" [Caught in: Module "__elem_a588f507_1_0_yD"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.417 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+DataStore.get: namespace is required, got undefined
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.419 nB_hR4vJerN.js:289 [Deprecation] Listener added for a 'DOMSubtreeModified' mutation event. Support for this event type has been removed, and this event will no longer be fired. See https://chromestatus.com/feature/5083947249172480 for more information.
+i @ nB_hR4vJerN.js:289
+19:07:42.420 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_3_Ct" [Caught in: Module "__elem_9fc087ed_1_0_fv"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.421 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_3_Ct" [Caught in: Module "__elem_9fc087ed_1_0_fv"] [Caught in: Requiring module "__elem_9fc087ed_1_0_fv" which threw an exception]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.421 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_0_5J" [Caught in: Module "__elem_9fc087ed_1_1_gD"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.422 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_0_5J" [Caught in: Module "__elem_9fc087ed_1_1_gD"] [Caught in: Requiring module "__elem_9fc087ed_1_1_gD" which threw an exception]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.422 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_1_Fw" [Caught in: Module "__elem_9fc087ed_1_2_B2"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.422 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_1_Fw" [Caught in: Module "__elem_9fc087ed_1_2_B2"] [Caught in: Requiring module "__elem_9fc087ed_1_2_B2" which threw an exception]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.423 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_2_hE" [Caught in: Module "__elem_9fc087ed_1_3_3X"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.424 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_2_hE" [Caught in: Module "__elem_9fc087ed_1_3_3X"] [Caught in: Requiring module "__elem_9fc087ed_1_3_3X" which threw an exception]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.425 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_h_tz" [Caught in: Module "__elem_fc9f538f_1_0_sG"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.425 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_p_+O" [Caught in: Module "__elem_fc9f538f_1_1_4C"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.425 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_l_rX" [Caught in: Module "__elem_fc9f538f_1_2_VK"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.426 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_d_Vp" [Caught in: Module "__elem_fc9f538f_1_3_mV"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.426 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_4_cr" [Caught in: Module "__elem_9fc087ed_1_4_I0"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.427 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_4_cr" [Caught in: Module "__elem_9fc087ed_1_4_I0"] [Caught in: Requiring module "__elem_9fc087ed_1_4_I0" which threw an exception]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.427 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_t_j9" [Caught in: Module "__elem_fc9f538f_1_4_da"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.427 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_a_l3" [Caught in: Module "__elem_a588f507_1_2_Gw"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.428 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_b_zT" [Caught in: Module "__elem_de92090e_1_0_Al"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.428 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_c_sp" [Caught in: Module "__elem_072b8e64_1_0_a+"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.429 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_e_xA" [Caught in: Module "__elem_a588f507_1_3_h9"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.429 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_f_lb" [Caught in: Module "__elem_de92090e_1_1_xz"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.429 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_g_Dh" [Caught in: Module "__elem_072b8e64_1_1_zQ"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.430 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_i_KJ" [Caught in: Module "__elem_a588f507_1_4_fv"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.430 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_j_wH" [Caught in: Module "__elem_de92090e_1_2_Rk"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.430 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_k_IA" [Caught in: Module "__elem_072b8e64_1_2_tr"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.431 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_m_c2" [Caught in: Module "__elem_a588f507_1_5_1J"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.431 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_n_0Y" [Caught in: Module "__elem_de92090e_1_3_Bv"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.431 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_o_7M" [Caught in: Module "__elem_072b8e64_1_3_cc"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.432 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_q_ah" [Caught in: Module "__elem_a588f507_1_6_2T"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.432 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_r_aV" [Caught in: Module "__elem_de92090e_1_4_kt"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:42.432 nB_hR4vJerN.js:75 ErrorUtils caught an error:
+
+Could not find element "u_1_s_f9" [Caught in: Module "__elem_072b8e64_1_4_fM"]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. Object
+errorListener @ nB_hR4vJerN.js:75
+19:07:51.661 index.js:50 Device: 1440 x 900 | Browser: 1440 x 212 | Main: 806 | Left sidebar: 200 | Right sidebar: 308 | Inner margin: 45 | Outer margin: 19

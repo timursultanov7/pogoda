@@ -8,7 +8,7 @@ https://www.weather-stream.com
 
 - `/test-cases` – Positive and negative test scenarios
 - `/bug-reports` – Bug reports with steps and screenshots
-- `/checklists` – UI & functionality test checklist
+
 
 ## 🛠 Tools used
 
